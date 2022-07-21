@@ -8,7 +8,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "gulp",
-    "e2e:start:static": "npm install & npm run build & npm run build:azure"
+    "start": "npm install & npm run build & npm run build:azure"
   },
   "repository": {
     "type": "git",
