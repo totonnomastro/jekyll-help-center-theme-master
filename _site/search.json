@@ -1,0 +1,27 @@
+[
+  
+    {
+      "title"       : "Getting Started",
+      "description" : "Start with a basic approach to discover and familiarize yourself with our platform right away.",
+      "date"        : "2022-06-07 16:46:41 +0200",
+      "categories"  : "start and blog",
+      "by"          : "Altilia Service",
+      "url"         : "/altilia-help-center/getting_started/",
+      "icon"        : "user-check",
+      "questions"   : null
+
+    } ,
+  
+    {
+      "title"       : "Manual Index",
+      "description" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "date"        : "2017-11-12 21:46:41 +0100",
+      "categories"  : "start and blog",
+      "by"          : "Altilia Service",
+      "url"         : "/altilia-help-center/manual_index/",
+      "icon"        : "help-circle",
+      "questions"   : null
+
+    } 
+  
+]
