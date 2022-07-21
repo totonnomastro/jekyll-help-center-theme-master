@@ -19,7 +19,8 @@
     "url": "https://github.com/gustavoquinalha/jekyll-help-center-theme/issues"
   },
   "engines": {
-    "node": ">=16.0.0 <18"
+    "node": ">=16.0.0 <18",
+    "npm": ">=7.0.0"
   },
   "homepage": "https://github.com/gustavoquinalha/jekyll-help-center-theme#readme"
 }
