@@ -9,7 +9,7 @@ Simple and responsive Jekyll theme for help center.
 # Color theme
 edit in _config.yml
 ```
-color_theme:  "#0081ff"
+color_theme:  "#0081ff" 
 color_text:  "#fff" 
 ```
 
