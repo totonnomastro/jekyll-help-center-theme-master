@@ -7,7 +7,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "gulp"
+    "dev": "gulp",
+    "start": "npm install & npm run build & npm run build:azure"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,10 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gustavoquinalha/jekyll-help-center-theme/issues"
+  },
+  "engines": {
+    "node": ">=16.0.0 <18",
+    "npm": ">=7.0.0"
   },
   "homepage": "https://github.com/gustavoquinalha/jekyll-help-center-theme#readme"
 }
